@@ -26,6 +26,7 @@
  <a href="https://www.linkedin.com/in/florianstanglmeier/"><img align="left" src="https://raw.githubusercontent.com/flo-s99/flo-s99/main/images/linkedin.svg" alt="Flo | LinkedIn" width="21px"/></a> 
  <a href="https://www.instagram.com/flo.stng/"><img align="left" src="https://raw.githubusercontent.com/flo-s99/flo-s99/main/images/instagram.svg" alt="Flo | Instagram" width="21px"/></a> 
  </br>
+ 
   - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
   
   ## 🔭 I'm currently working on 
