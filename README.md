@@ -30,9 +30,9 @@
  
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
  
-  - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
+
   
-  ## 🔭 I'm currently working on 
+ ### 🔭 I'm currently working on 
   - A physical NFT Frame that runs on Android and is controlled via an App in ASP.NET + Xamarin Forms and provides MetaMask and WalletConnect connections 
   - My forked Stock/Asset Management Dashboard 
   - Integrating a multilayer data pipeline for solar radiation prediction with LSTM's
