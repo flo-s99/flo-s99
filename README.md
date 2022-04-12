@@ -2,7 +2,7 @@
 <a <img src="https://user-images.githubusercontent.com/72252866/162438209-888a2669-e0e8-432e-83df-de6c6a9cac16.png" alt="my banner"></a> 
 </p> 
 <h3 align="center"> Hi there, I'm Flo</a> 👋 </h3>
- <h2 align="center"> I'm a Entrepreneur (FSMG, BlockFrame, Stealth..) 👔, Investor 📈, and self-taught (ML) Engineer 🤖 
+ <h2 align="center"> I'm a Entrepreneur (FSMG, BlockFrame, Stealth..) 👔, Retail Investor 📈, and self-taught (ML) Engineer 🤖 
 
  </h2> I love developing new products and services that disrupt industries. While building several startups I had to face a fact: If you want to innovate, learn coding your own solutions - so I did. I mainly develop ML applications using Python with Tensorflow or TensorSharp with C#. 
 
