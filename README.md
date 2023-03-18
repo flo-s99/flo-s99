@@ -1,7 +1,7 @@
 <p align="center"> 
 <a <img src="https://user-images.githubusercontent.com/72252866/162438209-888a2669-e0e8-432e-83df-de6c6a9cac16.png" alt="my banner"></a> 
 </p> 
-<h3 align="center"> Hi there, I'm Flo</a> 👋 </h3>
+
  <h2 align="center"> 🤖 
 
  </h2> 
