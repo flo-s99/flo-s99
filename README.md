@@ -21,10 +21,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
  
- <a href="https://www.linkedin.com/in/florianstanglmeier/"><img align="left" src="https://raw.githubusercontent.com/flo-s99/flo-s99/main/files/linkedin.svg" alt="Flo | LinkedIn" width="20px"/></a> 
- 
- <a href="https://www.instagram.com/flo.stng/"><img align="left" src="https://raw.githubusercontent.com/flo-s99/flo-s99/main/files/instagram.svg" alt="Flo | Instagram" width="20px"/></a> 
- </br>
+
  
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
  
